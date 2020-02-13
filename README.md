@@ -32,10 +32,6 @@ The 23 attributes are:
 
 Note that the though there are 7 and 8 attributes for lower-body clothing and upper-body clothing, only one color is labeled as yes (2) for an identity.
  
-## Sample
-
-![](sample_image.jpg)
-
 ## Evaluation
 To evaluate, please repfer to the code [here](https://github.com/vana77/Market-1501_Attribute)
 
