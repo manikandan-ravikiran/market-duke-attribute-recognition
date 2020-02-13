@@ -38,11 +38,7 @@ To evaluate, please repfer to the code [here](https://github.com/vana77/Market-1
 
 ## Citation
 
-DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC.txt)
-
-DukeMTMC-reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC-reID.txt)
-
-DukeMTMC-attribute [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC-attribute.txt)
+Please see original annotation creators website https://github.com/vana77/DukeMTMC-attribute/
 
 ## Dataset Licence
 Please follow the [LICENSE_DukeMTMC-attribute](https://github.com/vana77/DukeMTMC-attribute/blob/master/LICENSE_DukeMTMC-attribute.txt). You are free to share, create and adapt the DukeMTMC-reID dataset, in the manner specified in the license.
