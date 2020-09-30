@@ -1,7 +1,7 @@
 # market-duke-attribute-recognition
-Repository of annotation of attribute recognition for market and duke dataset.
+Repository of annotation of attribute recognition for market, duke and PETA dataset.
 
-This repository consists of csv annotations of market and duke dataset. Thanks to https://github.com/vana77/DukeMTMC-attribute
+This repository consists of csv annotations of market, duke and PETA dataset. Thanks to https://github.com/vana77/DukeMTMC-attribute and http://mmlab.ie.cuhk.edu.hk/projects/PETA.html for releasing annotations and dataset.
 
 
 # DukeMTMC-attribute
@@ -32,13 +32,15 @@ The 23 attributes are:
 
 Note that the though there are 7 and 8 attributes for lower-body clothing and upper-body clothing, only one color is labeled as yes (2) for an identity.
  
-## Evaluation
-To evaluate, please repfer to the code [here](https://github.com/vana77/Market-1501_Attribute)
+# PETA Dataset
+Details of PETA in  http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 
+## Evaluation 
+To evaluate, please repfer to the code [here](https://github.com/vana77/Market-1501_Attribute) and http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 
 ## Citation
 
-Please see original annotation creators website https://github.com/vana77/DukeMTMC-attribute/
+Please see original annotation creators website https://github.com/vana77/DukeMTMC-attribute/ and http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 
 ## Dataset Licence
 Please follow the [LICENSE_DukeMTMC-attribute](https://github.com/vana77/DukeMTMC-attribute/blob/master/LICENSE_DukeMTMC-attribute.txt). You are free to share, create and adapt the DukeMTMC-reID dataset, in the manner specified in the license.
@@ -46,3 +48,6 @@ Please follow the [LICENSE_DukeMTMC-attribute](https://github.com/vana77/DukeMTM
 We also include the [LICENSE_DukeMTMC](https://github.com/vana77/DukeMTMC-attribute/blob/master/LICENSE_DukeMTMC.txt). If you want to share, create and adapt the DukeMTMC dataset, please follow this license.
 
 The original DukeMTMC-attribute evaluation code is under the MIT License. We niether own or share resposiblity for the annotation errors.
+
+The original PETA dataset is licensed in terms as specified by http://mmlab.ie.cuhk.edu.hk/projects/PETA.html, we neither own or share responsiblity for the annotations given here. Instead its a mere csv conversion of the mat files for ease of my personal use.
+
